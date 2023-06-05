@@ -1,0 +1,1 @@
+const evenOrOdd = number => number === 0 || number % 2 === 0 ? 'Even' : 'Odd'
